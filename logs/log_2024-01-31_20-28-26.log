@@ -1,0 +1,25 @@
+2024-01-24 21:19:49,424 [INFO]: Log file saved to logs/log_2024-01-24_21-19-49.log
+2024-01-24 21:22:11,213 [INFO]: Log file saved to logs/log_2024-01-24_21-22-11.log
+2024-01-24 21:28:43,075 [INFO]: Log file saved to logs/log_2024-01-24_21-28-43.log
+2024-01-24 21:46:34,955 [INFO]: Log file saved to logs/log_2024-01-24_21-46-34.log
+2024-01-24 21:47:53,884 [INFO]: Log file saved to logs/log_2024-01-24_21-47-53.txt
+2024-01-24 21:55:20,654 [INFO]: Log file saved to logs/log_2024-01-24_21-55-20.log
+2024-01-24 21:57:36,712 [INFO]: Log file saved to logs/log_2024-01-24_21-57-36.log
+2024-01-24 22:09:26,186 [ERROR]: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-01-24 23:31:35,387 [ERROR]: Error during log file reception: object int can't be used in 'await' expression
+2024-01-24 23:32:05,726 [ERROR]: Error during log file reception: object int can't be used in 'await' expression
+2024-01-24 23:33:47,318 [ERROR]: Error during log file reception: 422: The uploaded file is empty
+2024-01-24 23:35:25,271 [ERROR]: Error during log file reception: 422: The uploaded file is empty
+2024-01-24 23:36:29,582 [ERROR]: Error during log file reception: 422: The uploaded file is empty
+2024-01-24 23:38:06,797 [ERROR]: Error during log file reception: 422: The uploaded file is empty
+2024-01-24 23:41:19,508 [ERROR]: Error during log file reception: 422: The uploaded file is empty
+2024-01-24 23:41:26,887 [ERROR]: Error during log file reception: 422: The uploaded file is empty
+2024-01-24 23:44:36,838 [ERROR]: Error during log file reception: 422: The uploaded file is empty
+2024-01-24 23:45:33,714 [INFO]: Log file received and saved to logs/log_2024-01-24_23-45-33.log
+2024-01-24 23:46:12,047 [INFO]: Log file received and saved to logs/log_2024-01-24_23-46-12.log
+2024-01-24 23:53:35,601 [INFO]: Log file saved to logs/log_2024-01-24_23-53-35.log
+2024-01-24 23:54:22,569 [INFO]: Log file saved to logs/log_2024-01-24_23-54-22.log
