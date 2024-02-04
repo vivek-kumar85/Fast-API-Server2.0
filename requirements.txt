@@ -1,0 +1,9 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+pandas==1.3.3
+
+# to run the FastAPI Server
+
+#uvicorn main:app --reload
+          #OR
+# uvicorn main:app --host 0.0.0.0 --port 2121 --reload
