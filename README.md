@@ -43,13 +43,13 @@ Your_Project_Dir/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/fastapi-server.git
+    git clone https://github.com/vivek-kumar85/Fast-API-Server2.0.git
     ```
 
 2. Change to the project directory:
 
     ```bash
-    cd fastapi-server
+    cd Fast-API-Server2.0
     ```
 
 3. Install dependencies:
